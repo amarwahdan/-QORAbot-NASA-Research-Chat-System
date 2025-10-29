@@ -23,6 +23,7 @@ Developed a chatbot capable of answering questions about NASA’s research and s
 Useful as an educational and research tool for fast and reliable access to references and scientific papers.
 
 Amar Ahmed
+
 Data scientist | Machine Learning Developer | Computer Vision Researcher
 
 linkedin: https://www.linkedin.com/in/amar-ahmed-25b676302/ 
